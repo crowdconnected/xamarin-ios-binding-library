@@ -96,6 +96,27 @@ namespace CCLocation {
 		}
 		
 		[BindingImpl (BindingImplOptions.GeneratedCode | BindingImplOptions.Optimizable)]
+		public virtual ulong Floor {
+			[Export ("floor")]
+			get {
+				if (IsDirectBinding) {
+					return global::ApiDefinitions.Messaging.UInt64_objc_msgSend (this.Handle, Selector.GetHandle ("floor"));
+				} else {
+					return global::ApiDefinitions.Messaging.UInt64_objc_msgSendSuper (this.SuperHandle, Selector.GetHandle ("floor"));
+				}
+			}
+			
+			[Export ("setFloor:")]
+			set {
+				if (IsDirectBinding) {
+					global::ApiDefinitions.Messaging.void_objc_msgSend_UInt64 (this.Handle, Selector.GetHandle ("setFloor:"), value);
+				} else {
+					global::ApiDefinitions.Messaging.void_objc_msgSendSuper_UInt64 (this.SuperHandle, Selector.GetHandle ("setFloor:"), value);
+				}
+			}
+		}
+		
+		[BindingImpl (BindingImplOptions.GeneratedCode | BindingImplOptions.Optimizable)]
 		public virtual double HeadingOffSet {
 			[Export ("headingOffSet")]
 			get {

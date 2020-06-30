@@ -1,7 +1,7 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Colocator.Binding/ApiDefinitions.cs">
     <Files>
-      <File FileName="Colocator.Binding/ApiDefinitions.cs" Line="9" Column="1" />
+      <File FileName="Colocator.Binding/ApiDefinitions.cs" Line="58" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,6 +12,7 @@
               <Node name="NativeReferenceFolder" expanded="True">
                 <Node name="NativeReference" selected="True" />
               </Node>
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -1,6 +1,6 @@
 /Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/bin/Debug/NativeLibrary.dll
 /Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/bin/Debug/NativeLibrary.pdb
+/Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/Colocator.Binding.csprojAssemblyReference.cache
 /Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/Colocator.Binding.csproj.CoreCompileInputs.cache
 /Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/NativeLibrary.dll
 /Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/NativeLibrary.pdb
-/Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/Colocator.Binding.csprojAssemblyReference.cache

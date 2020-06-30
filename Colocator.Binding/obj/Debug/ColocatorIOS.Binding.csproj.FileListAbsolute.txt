@@ -1,0 +1,2 @@
+/Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/NativeLibrary.dll
+/Users/tcode/Desktop/CrowdConnected/Xamarin/Colocator.Binding/Colocator.Binding/obj/Debug/NativeLibrary.pdb

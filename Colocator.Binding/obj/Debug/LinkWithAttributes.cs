@@ -3,4 +3,4 @@
 [assembly: ObjCRuntime.LinkWith ("SocketRocket.framework", SmartLink = true, Frameworks = "Foundation")]
 [assembly: ObjCRuntime.LinkWith ("TrueTime.framework", SmartLink = true, Frameworks = "Foundation")]
 [assembly: ObjCRuntime.LinkWith ("SwiftProtobuf.framework", SmartLink = true, Frameworks = "Foundation")]
-[assembly: ObjCRuntime.LinkWith ("CCLocation.framework", SmartLink = true, Frameworks = "Foundation UIKit")]
+[assembly: ObjCRuntime.LinkWith ("CCLocation.framework", Frameworks = "Foundation")]
